@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 <!--
-**iceror/iceror** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -42,5 +40,3 @@ Musician learning to code. <br><br>A few years ago, I started to take an interes
 
 ---
 [![](https://visitcount.itsvg.in/api?id=iceror&icon=0&color=8)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
