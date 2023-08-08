@@ -24,6 +24,7 @@ Musician learning to code. <br><br>A few years ago, I started to take an interes
 </a>
 
 ### Tech Stack 💻:
+<div style="display: flex; align-items: center;">
 <img src="./img/git.png" alt="Git" width="30" height="30">
 <img src="./img/github%20(1).png" alt="Github" width="30" height="30">
 <img src="./img/html-5.png" alt="HTML5" width="30" height="30">
@@ -31,7 +32,8 @@ Musician learning to code. <br><br>A few years ago, I started to take an interes
 <img src="./img/sass.png" alt="SASS" width="30" height="30">
 <img src="./img/js.png" alt="JavaScript" width="30" height="30">
 <img src="./img/react.png" alt="React" width="30" height="30">
-<img src="./img/nodejs.png" alt="NodeJS" width="30" height="30">
+<img src="./img/nodejs.png" alt="NodeJS" width="50">
+</div>
 
 ### GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=iceror&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=false)<br/>
